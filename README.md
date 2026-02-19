@@ -79,5 +79,5 @@ Designed completely in KiCad.
 
 ## 👤 Author
 
-Designed and developed by HarshiKrishn  
+Designed and developed by Harshini  
 Embedded Systems & PCB Design Enthusiast
