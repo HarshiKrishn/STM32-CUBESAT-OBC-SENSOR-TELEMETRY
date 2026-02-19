@@ -67,6 +67,15 @@ Designed completely in KiCad.
 - `/Docs`
 
 ---
+## 3D PCB View
+
+### Top View
+![Top View](top3d_obc.png)
+
+
+### Bottom View
+![Bottom](bottom3d_obc.png)
+
 
 ## 👤 Author
 
